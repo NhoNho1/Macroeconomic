@@ -5,6 +5,9 @@ Mỗi giao dịch bao gồm: người mua dùng **tiền, tín dụng** để tr
 Tín dụng được sử dụng như tiền
 -> Tiền + Tín dụng = Chi tiêu
 Tổng chi tiêu / Tổng hàng hóa = giá cả 
+Tín dụng là khái niệm thể hiện mối quan hệ giữa người cho vay và người vay. Người đi vay dựa vào tín nhiệm (tiền thu nhập hoặc tài sản thế chấp) của họ để mượn tài sản người cho vay.
+chi tiêu của người này là thu nhập của người khâc
+Vd: A đi vay thì A sẽ có nhiều tiền hơn để chi tiêu., mua hàng hóa của B thì B sẽ có thu nhập cao hơn, B sẽ có tín nhiệm cao hơn và có thể vay nhiều
 Chính phủ bao gồm: 
 - Chính phủ trung ương: thu thuế, chi tiền
 - Ngân hàng trung ương: kiểm soát lượng tiền và tín dụng trong toàn nền kinh tế bằng cách điều chỉnh lãi suất hoặc in tiền mới. 

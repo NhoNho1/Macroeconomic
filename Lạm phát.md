@@ -1,5 +1,5 @@
 28/03/2024
-#KINH TẾ VĨ MÔ VỠ LÒNG
+# KINH TẾ VĨ MÔ VỠ LÒNG
 Nền kinh tế được hiểu đơn giản là **tổng tất cả các giao dịch** đã được tạo ra.
 Mỗi giao dịch bao gồm: người mua dùng **tiền, tín dụng** để trao đổi với **hàng hóa, dịch vụ** của người bán. (người mua và người bán có thể là cá nhân, doanh nghiệp, ngân hàng, chính phủ)
 Tín dụng được sử dụng như tiền
